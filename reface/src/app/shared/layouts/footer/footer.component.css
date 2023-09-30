@@ -1,0 +1,8 @@
+#footer{
+    min-width: 100%;
+    min-height: 50px;
+    background-color: #c4c4c4;
+    box-shadow: 0px -1px 3px 0px;
+    left: 0;
+    bottom: 0;
+}

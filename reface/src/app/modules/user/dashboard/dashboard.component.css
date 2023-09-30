@@ -1,0 +1,24 @@
+.main-div{
+    display: flex;
+    max-width: 98%;
+    margin: 60px auto 0 auto;
+    flex-wrap: wrap;
+    align-items: center;
+    /* justify-content: space-around; */
+}
+
+.card-div{
+    max-width: 225px;
+    min-height: 350px;
+    background-color: #fafafa;
+    border-radius: 7px;
+    box-shadow: 2px 2px 5px 1px;
+    margin: 10px;
+}
+
+img {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
